@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    min-width: 330px;
+}
+input{
+    width:100%;
+    box-sizing: border-box;
+    padding: 5px 10px;   
+    border: #009dff solid 1px;
+}
+button{
+    margin-top: 3px;
+    padding: 5px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #009dff;
+    border: solid 1px #009dff;
+}
+#delete-btn{
+    color: #009dff;
+    background-color: white;
+    
+}
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+    margin-bottom: 3px;
+}
+li a{
+    color: #009dff;
+    font-weight: bold;
+}
